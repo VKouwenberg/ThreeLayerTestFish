@@ -1,0 +1,11 @@
+﻿Managers or what you want to call them
+Methods/functions all go here
+Make one .cs file per class
+
+Important to remember which methods do what so you're doing a SOLID
+hehe
+But that is important
+Think about circustrein
+Creating Animals? Animal
+Creating a Wagon? Wagon
+Putting Animals in Wagons? WagonServices
